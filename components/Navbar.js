@@ -14,8 +14,8 @@ function Navbar() {
         {/* <h2 className='text-lg font-bold'>Daniyal</h2> */}
         <Image
         src={LogoS}
-        height={40}
-        width={200}
+        // height={40}
+        // width={200}
         alt="Picture of the author"
         className='rounded-none w-auto sm:h-12 h-8'
         priority

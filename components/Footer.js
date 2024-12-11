@@ -3,7 +3,7 @@ import { FaInstagram } from "react-icons/fa";
 import Image from 'next/image';
 import Link from 'next/link';
 import LogoS from '@/public/images/Logo-copy.jpg'
-import Logo from '@/public/images/logo.jpg';
+// import Logo from '@/public/images/logo.jpg';
 
 function Footer() {
     return (
@@ -16,13 +16,14 @@ function Footer() {
     <FaInstagram className="text-5xl" />
   </div>
   <div className=' md:w-16 w-auto md:block flex justify-center'>
-    <Image
-      src={Logo}
-      width={70}
-      height={70}
-      alt="Picture of the author"
-      className="rounded-full "
-    />
+  <Image
+        src={LogoS}
+        // height={40}
+        // width={200}
+        alt="Picture of the author"
+        className='rounded-none w-auto sm:h-12 h-8'
+        priority
+      />        
   </div>
   <div className="flex flex-col items-center ">
     <p className="font-bold">House of Perfumes</p>
