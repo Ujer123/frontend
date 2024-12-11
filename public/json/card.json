@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "image_url": [
+      "https://images.unsplash.com/photo-1672848700942-68b6a4550540?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://media.istockphoto.com/id/1024565086/vector/cosmetic-advertising-poster.jpg?s=1024x1024&w=is&k=20&c=_Pgvda_D8mJ0BBaObit5UrRuFFkA-0sjM0SbzlhOWMA="
+    ],
+    "name": "Apple Watch Series 7 GPS, Aluminium Case, Starlight Sport",
+    "rating": 4.5,
+    "price": 599,
+    "description": "A smartwatch with a 40mm case size, GPS, and a starlight sport band."
+  },
+    {
+      "id": 2,
+      "image_url":  [
+        "https://images.unsplash.com/photo-1672848700942-68b6a4550540?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://media.istockphoto.com/id/1024565086/vector/cosmetic-advertising-poster.jpg?s=1024x1024&w=is&k=20&c=_Pgvda_D8mJ0BBaObit5UrRuFFkA-0sjM0SbzlhOWMA=",
+        "https://media.istockphoto.com/id/1024565086/vector/cosmetic-advertising-poster.jpg?s=1024x1024&w=is&k=20&c=_Pgvda_D8mJ0BBaObit5UrRuFFkA-0sjM0SbzlhOWMA="
+      ],
+      "name": "Samsung Galaxy Watch Active2",
+      "rating": 4.2,
+      "price": 699,
+      "description": "A smartwatch with a 40mm case size, GPS, and a leather strap."
+    },
+    {
+      "id": 3,
+      "image_url":  [
+       "https://images.unsplash.com/photo-1672848700942-68b6a4550540?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://media.istockphoto.com/id/1024565086/vector/cosmetic-advertising-poster.jpg?s=1024x1024&w=is&k=20&c=_Pgvda_D8mJ0BBaObit5UrRuFFkA-0sjM0SbzlhOWMA=",
+        "https://media.istockphoto.com/id/1024565086/vector/cosmetic-advertising-poster.jpg?s=1024x1024&w=is&k=20&c=_Pgvda_D8mJ0BBaObit5UrRuFFkA-0sjM0SbzlhOWMA="
+      ],
+      "name": "Fossil Gen 5",
+      "rating": 4.1,
+      "price": 799,
+      "description": "A smartwatch with a 42mm case size, GPS, and a stainless steel band."
+    },
+    {
+      "id": 4,
+      "image_url":  [
+       "https://images.unsplash.com/photo-1672848700942-68b6a4550540?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://media.istockphoto.com/id/1024565086/vector/cosmetic-advertising-poster.jpg?s=1024x1024&w=is&k=20&c=_Pgvda_D8mJ0BBaObit5UrRuFFkA-0sjM0SbzlhOWMA=",
+        "https://media.istockphoto.com/id/1024565086/vector/cosmetic-advertising-poster.jpg?s=1024x1024&w=is&k=20&c=_Pgvda_D8mJ0BBaObit5UrRuFFkA-0sjM0SbzlhOWMA="
+      ],
+      "name": "Huawei Watch GT 2",
+      "rating": 4.3,
+      "price": 899,
+      "description": "A smartwatch with a 46mm case size, GPS, and a leather strap."
+    },
+    {
+      "id": 5,
+      "image_url":  [
+       "https://images.unsplash.com/photo-1672848700942-68b6a4550540?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://media.istockphoto.com/id/1024565086/vector/cosmetic-advertising-poster.jpg?s=1024x1024&w=is&k=20&c=_Pgvda_D8mJ0BBaObit5UrRuFFkA-0sjM0SbzlhOWMA=",
+        "https://media.istockphoto.com/id/1024565086/vector/cosmetic-advertising-poster.jpg?s=1024x1024&w=is&k=20&c=_Pgvda_D8mJ0BBaObit5UrRuFFkA-0sjM0SbzlhOWMA="
+      ],
+      "name": "Apple Watch Series 5",
+      "rating": 4.6,
+      "price": 999,
+      "description": "A smartwatch with a 40mm case size, GPS, and a sport band."
+    },
+    {
+      "id": 6,
+      "image_url":  [
+        "https://images.unsplash.com/photo-1672848700942-68b6a4550540?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://media.istockphoto.com/id/1024565086/vector/cosmetic-advertising-poster.jpg?s=1024x1024&w=is&k=20&c=_Pgvda_D8mJ0BBaObit5UrRuFFkA-0sjM0SbzlhOWMA=",
+        "https://media.istockphoto.com/id/1024565086/vector/cosmetic-advertising-poster.jpg?s=1024x1024&w=is&k=20&c=_Pgvda_D8mJ0BBaObit5UrRuFFkA-0sjM0SbzlhOWMA="
+      ],
+      "name": "Samsung Galaxy Watch",
+      "rating": 4.4,
+      "price": 1099,
+      "description": "A smartwatch with a 42mm case size, GPS, and a leather strap."
+    },
+    {
+      "id": 7,
+      "image_url":  [
+        "https://images.unsplash.com/photo-1672848700942-68b6a4550540?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://media.istockphoto.com/id/1024565086/vector/cosmetic-advertising-poster.jpg?s=1024x1024&w=is&k=20&c=_Pgvda_D8mJ0BBaObit5UrRuFFkA-0sjM0SbzlhOWMA=",
+        "https://media.istockphoto.com/id/1024565086/vector/cosmetic-advertising-poster.jpg?s=1024x1024&w=is&k=20&c=_Pgvda_D8mJ0BBaObit5UrRuFFkA-0sjM0SbzlhOWMA="
+      ],
+      "name": "Fossil Gen 6",
+      "rating": 4.7,
+      "price": 1199,
+      "description": "A smartwatch with a 44mm case size, GPS, and a stainless steel band."
+    }
+  ]
