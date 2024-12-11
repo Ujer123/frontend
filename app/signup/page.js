@@ -21,7 +21,7 @@ export default function Signup() {
     // Example signup logic
     if (username && email && password && phone) {
       try {
-        const response = await axios.post('http://localhost:5000/auth/signup', {
+        const response = await axios.post('https://backend-tfcp.onrender.com/auth/signup', {
           name: username,
           email,
           password,

@@ -32,7 +32,7 @@ function Payment() {
         return;
       }
 
-      const response = await fetch('http://localhost:5000/payment/order', {
+      const response = await fetch('https://backend-tfcp.onrender.com/payment/order', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ amount: totalOrderPrice.toFixed(2) }),
@@ -48,7 +48,7 @@ function Payment() {
           description: 'Test Transaction',
           order_id: order.id,
           handler: async (response) => {
-            const verifyResponse = await fetch('http://localhost:5000/payment/verify', {
+            const verifyResponse = await fetch('https://backend-tfcp.onrender.com/payment/verify', {
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
               body: JSON.stringify(response),
