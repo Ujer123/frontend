@@ -40,7 +40,7 @@ export default function ProductCard({ product }) {
 
 // Product Image Component
 const ProductImage = ({ product }) => (
-  <Link href={`/product/${product.id}`}>
+  <Link href={`/products/${product.id}`}>
     <Image
       src={product.image_url || '/images/greatness.jpg'} // Use a placeholder if image_url is empty
       alt={product.title}

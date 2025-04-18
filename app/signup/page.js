@@ -44,7 +44,6 @@ export default function Signup() {
     }
   };
 
-  // Toggle password visibility
   const togglePasswordVisibility = () => {
     setShowPassword(!showPassword);
   };
@@ -95,7 +94,6 @@ export default function Signup() {
           </div>
         </div>
 
-        {/* Phone Field */}
         <div className="mb-4">
           <label htmlFor="phone" className="block mb-2 dark:text-white text-sm font-medium text-gray-900">Your Phone</label>
           <div className="relative">
@@ -114,7 +112,6 @@ export default function Signup() {
           </div>
         </div>
 
-        {/* Password Field */}
         <div className="mb-6 relative">
           <label htmlFor="password" className="block mb-2 dark:text-white text-sm font-medium text-gray-900">Password</label>
           <input
@@ -135,7 +132,6 @@ export default function Signup() {
           </button>
         </div>
 
-        {/* Signup Button */}
         <button
           type="submit"
           className="text-white bg-gradient-to-br w-full from-purple-600 to-blue-500 hover:bg-gradient-to-bl font-medium rounded-lg text-sm px-5 py-2.5 text-center"
@@ -143,7 +139,6 @@ export default function Signup() {
           Sign Up
         </button>
 
-        {/* Login Link */}
         <div className="text-sm font-medium text-black pb-3 mt-4 dark:text-white text-center">
           Already have an account? <Link href="/login" className="text-blue-700 hover:underline">Login</Link>
         </div>
