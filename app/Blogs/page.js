@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import Bike from "@/public/images/IMG-20241006-WA0002.jpg"
+import Blog from "@/public/images/eros.jpg"
 import { getBlogs } from '@/lib/getBlogs';
 import Link from 'next/link';
 
@@ -15,7 +15,7 @@ export default async function Blogs() {
             <Link href="/PaymentPage" key={item.id}>
             <div className='p-2 border rounded-lg bg-gray-200'>
                     <Image
-                        src={Bike}
+                        src={Blog}
                         // width={350}
                         // height={100}
                         style={{maxHeight: '250px'}}

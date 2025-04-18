@@ -1,4 +1,3 @@
-// MobileMenu.js (Client Component)
 "use client"; // Mark as Client Component
 import React, { useState } from 'react';
 import Link from 'next/link';

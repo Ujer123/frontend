@@ -9,7 +9,7 @@ import LogoS from '@/public/images/Logo-copy.jpg'
 
 function Navbar() {
   return (
-    <div className='bg-white border-b-2 py-4 fixed top-0 w-full flex flex-col md:flex-row justify-between items-center px-5 z-10'>
+    <div className='bg-white border-b-2 py-4 fixed top-0 w-full flex flex-col md:flex-row justify-between items-center px-5 z-50'>
       <div className='flex justify-between w-full md:w-auto items-center'>
         {/* <h2 className='text-lg font-bold'>Daniyal</h2> */}
         <Image

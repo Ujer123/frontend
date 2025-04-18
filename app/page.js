@@ -1,9 +1,8 @@
 import React from 'react';
 import ClientProductSlider from '@/components/ClientProductSlider';
 import Slider from '@/components/Slider';
-import ProductsGallery from '@/components/ProductsGallery';
 import { getProducts } from '@/lib/getProducts';
-import Image from 'next/image';
+import AboutUs from '@/components/About/AboutUs';
 
 
 export default async function Home() {
@@ -15,7 +14,7 @@ export default async function Home() {
     <>
     <Slider/>
     <ClientProductSlider products={products} />
-    <ProductsGallery/>
+    <AboutUs/>
     </>
   );
 

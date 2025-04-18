@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import Daniel from "@/public/images/IMG-20241006-WA0002.jpg";
+import Daniel from "@/public/images/sahara.jpg";
 
 function Page() {
   return (
