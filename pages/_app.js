@@ -3,14 +3,14 @@ import { Provider } from 'react-redux';
 import { makeStore } from '@/lib/store/store';
 import CartLoader from '@/lib/store/features/cart/CartLoader';
 import '@/styles/globals.css';
-import Header from '@/components/Header';
+import Navbar from '@/components/Navbar';
 
 const store = makeStore();
 
 function MyApp({ Component, pageProps }) {
   return (
     <Provider store={store}>
-      <Header/>
+      <Navbar/>
       <CartLoader /> {/* Loads the cart state from localStorage */}
       <Component {...pageProps} />
     </Provider>
