@@ -42,7 +42,7 @@ export default function ProductCard({ product }) {
 const ProductImage = ({ product }) => (
   <Link href={`/product/${product.id}`}>
     <Image
-      src={product.image_url || '/images/placeholder-image.jpg'} // Use a placeholder if image_url is empty
+      src={product.image_url || '/images/greatness.jpg'} // Use a placeholder if image_url is empty
       alt={product.title}
       width={320}
       height={208}
